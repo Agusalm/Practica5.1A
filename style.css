@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    background-color: #d3dbde;
+    font-size: 40px;
+}
+
+h2.titulo2 {
+    background-color: #7b929d;
+    text-decoration: underline;
+    font-size: 33px;
+    color: #415058;
+}
+
+p {
+    background-color: #b6c2c9;
+    font-size: 18px;
+}
+
+strong {
+    color: #006699;
+    font-weight: normal;
+}
+
+b {
+    color: #0088cc;
+}
+
+h3 {
+    background-color: #98aab3;
+    color: #576b75;
+}
+
+p.izquierda {
+    text-align: right;
+    background-color: white;
+}
+
+body {
+    background-color: #d3dbde;
+}
+
+em {
+    font-weight: bold;
+    font-size: 19px;
+}
